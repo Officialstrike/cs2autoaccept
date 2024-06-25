@@ -1,0 +1,5 @@
+# exclude .env files
+.env
+
+# exclude python enviroment
+env
